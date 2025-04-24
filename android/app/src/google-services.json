@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "295775818288",
+    "project_id": "alumni-app-5",
+    "storage_bucket": "alumni-app-5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295775818288:android:540c4060976a97330ad3f5",
+        "android_client_info": {
+          "package_name": "com.example.alumni_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYFy_VmrUAuoKUY_dr9TN4hExu69qXcbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
